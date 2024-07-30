@@ -1,7 +1,7 @@
 // Using console.log to display information
 
-console.log("Hello world!");
-console.log("Welcome");
+console.log("Good morning!");
+console.log("Welcome to");
 
 
 /* Further Adventures
